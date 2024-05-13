@@ -1,0 +1,32 @@
+h1{
+    color: brown;
+}
+body{
+    border: 1px solid black;
+    margin: 3%;
+    padding: 2%;
+    border-radius: 44px;
+}
+
+#c-1{
+    color: rgb(255, 166, 0);
+    border: 1px solid black;
+    padding: 5px;
+    width: 50%;
+}
+
+#t-1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#nit{
+    border-radius: 80px;
+}
+
+.collages{
+    text-align: center;
+    border: 1px dotted black;
+    margin: 5%;
+    
+}
